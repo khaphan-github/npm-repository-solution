@@ -1,0 +1,178 @@
+{
+	"name": "skpy",
+	"versions": {
+		"1.0.0": {
+			"name": "skpy",
+			"version": "1.0.0",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"author": "",
+			"license": "ISC",
+			"_id": "skpy@1.0.0",
+			"gitHead": "b710f2884718d35eba5cd7f713d92a4e5482bd23",
+			"_nodeVersion": "20.9.0",
+			"_npmVersion": "10.1.0",
+			"dist": {
+				"integrity": "sha512-/JhTTf8HxG+o1RRapMYVzAHCNx2kSZV/KYHfMT76iTxVnJfBpeMoI5NWw73M7gw9Yb8zLCQXy9U8FFEMiHolOg==",
+				"shasum": "aadd66d15d18ab280689dc300a4c05d0a940e668",
+				"tarball": "http://localhost:4873/skpy/-/skpy-1.0.0.tgz"
+			},
+			"contributors": []
+		},
+		"1.0.1": {
+			"name": "skpy",
+			"version": "1.0.1",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"author": "",
+			"license": "ISC",
+			"_id": "skpy@1.0.1",
+			"gitHead": "b710f2884718d35eba5cd7f713d92a4e5482bd23",
+			"_nodeVersion": "20.9.0",
+			"_npmVersion": "10.1.0",
+			"dist": {
+				"integrity": "sha512-eQ++lp7oCFBwIApFNp+qzxB6ZrS/l3H8KLyo5Pou4q9b0mxpNiyTZIQhhgnrYR2ujz2hdBnQL0tbcHs/3EBbAw==",
+				"shasum": "6ad69e4f621f2c5bace729ba863fad79ed49f76b",
+				"tarball": "http://localhost:4873/skpy/-/skpy-1.0.1.tgz"
+			},
+			"contributors": []
+		},
+		"1.0.2": {
+			"name": "skpy",
+			"version": "1.0.2",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"author": "",
+			"license": "ISC",
+			"_id": "skpy@1.0.2",
+			"gitHead": "b710f2884718d35eba5cd7f713d92a4e5482bd23",
+			"_nodeVersion": "20.9.0",
+			"_npmVersion": "10.1.0",
+			"dist": {
+				"integrity": "sha512-VkBcBAGC8RG7OM+2F439HzpH98mKvTVPigcFTSQnSZmXt/gyiikcKasgRebAtO0llF681TpYvE3CewFojLIMdQ==",
+				"shasum": "82510b9535f5531c9c362b5846aa8d682b292b76",
+				"tarball": "http://localhost:4873/skpy/-/skpy-1.0.2.tgz"
+			},
+			"contributors": []
+		},
+		"1.0.3": {
+			"name": "skpy",
+			"version": "1.0.3",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"author": "",
+			"license": "ISC",
+			"_id": "skpy@1.0.3",
+			"gitHead": "b710f2884718d35eba5cd7f713d92a4e5482bd23",
+			"_nodeVersion": "20.9.0",
+			"_npmVersion": "10.1.0",
+			"dist": {
+				"integrity": "sha512-9DC7FHeHc1LJFwL03PbyYuLhho8KHExHDdtlfOWPWH5Js4tfF/6Dja70tIOFBEo1lwfuDnD/vsSkcn01fJ+9cA==",
+				"shasum": "38dec6d2ad33f6d00e31439049d0645777d7532d",
+				"tarball": "http://localhost:4873/skpy/-/skpy-1.0.3.tgz"
+			},
+			"contributors": []
+		},
+		"1.0.4": {
+			"name": "skpy",
+			"version": "1.0.4",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"author": "",
+			"license": "ISC",
+			"dependencies": {
+				"axios": "^1.7.7"
+			},
+			"_id": "skpy@1.0.4",
+			"gitHead": "b710f2884718d35eba5cd7f713d92a4e5482bd23",
+			"_nodeVersion": "20.9.0",
+			"_npmVersion": "10.1.0",
+			"dist": {
+				"integrity": "sha512-9gH3ST3iTyvSAQb5Ls01NiAt3MUvcb/cw68xzatHAbl60Du6/H5NxNPf37b76gD4CA41zHEVychTdXkUXXRurQ==",
+				"shasum": "6e2ea4794c527f36718fa0dbff5f9eb894fe0da0",
+				"tarball": "http://localhost:4873/skpy/-/skpy-1.0.4.tgz"
+			},
+			"contributors": []
+		},
+		"1.0.5": {
+			"name": "skpy",
+			"version": "1.0.5",
+			"description": "- Module management: Create libraries as a module and store them in registry. - Versioning: Define specific version to apply them to your project. - Dependency Management: Automatically installs and manages package dependencies, handling nested dependencies for seamless integration.",
+			"main": "index.js",
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"author": "",
+			"license": "ISC",
+			"dependencies": {
+				"axios": "^1.7.7"
+			},
+			"_id": "skpy@1.0.5",
+			"readmeFilename": "readme.md",
+			"gitHead": "b710f2884718d35eba5cd7f713d92a4e5482bd23",
+			"_nodeVersion": "20.9.0",
+			"_npmVersion": "10.1.0",
+			"dist": {
+				"integrity": "sha512-gnJvgvbnAxeLNB8l4u6TKgF1PDSsvL4ptRhVbcm6vAhxNJJB2ev6YB4QApT2y3QIIN3FiK+4C/o+fdBsr+sHbA==",
+				"shasum": "ef01a3a6092ba5ba3ac33d3c454ddd72451cd4ae",
+				"tarball": "http://localhost:4873/skpy/-/skpy-1.0.5.tgz"
+			},
+			"contributors": []
+		}
+	},
+	"time": {
+		"modified": "2024-10-30T16:12:08.117Z",
+		"created": "2024-10-30T15:48:45.911Z",
+		"1.0.0": "2024-10-30T15:48:45.911Z",
+		"1.0.1": "2024-10-30T15:52:01.816Z",
+		"1.0.2": "2024-10-30T15:52:41.318Z",
+		"1.0.3": "2024-10-30T15:58:31.657Z",
+		"1.0.4": "2024-10-30T16:11:24.865Z",
+		"1.0.5": "2024-10-30T16:12:08.117Z"
+	},
+	"users": {},
+	"dist-tags": {
+		"latest": "1.0.5"
+	},
+	"_uplinks": {},
+	"_distfiles": {},
+	"_attachments": {
+		"skpy-1.0.0.tgz": {
+			"shasum": "aadd66d15d18ab280689dc300a4c05d0a940e668",
+			"version": "1.0.0"
+		},
+		"skpy-1.0.1.tgz": {
+			"shasum": "6ad69e4f621f2c5bace729ba863fad79ed49f76b",
+			"version": "1.0.1"
+		},
+		"skpy-1.0.2.tgz": {
+			"shasum": "82510b9535f5531c9c362b5846aa8d682b292b76",
+			"version": "1.0.2"
+		},
+		"skpy-1.0.3.tgz": {
+			"shasum": "38dec6d2ad33f6d00e31439049d0645777d7532d",
+			"version": "1.0.3"
+		},
+		"skpy-1.0.4.tgz": {
+			"shasum": "6e2ea4794c527f36718fa0dbff5f9eb894fe0da0",
+			"version": "1.0.4"
+		},
+		"skpy-1.0.5.tgz": {
+			"shasum": "ef01a3a6092ba5ba3ac33d3c454ddd72451cd4ae",
+			"version": "1.0.5"
+		}
+	},
+	"_rev": "18-67d7e104655482d8",
+	"_id": "skpy",
+	"readme": "# Table of contents\n# What is npm? (Node Package Manager)\n### 1. Main features:\n- Module management: Create libraries as a module and store them in registry.\n- Versioning: Define specific version to apply them to your project.\n- Dependency Management: Automatically installs and manages package dependencies, handling nested dependencies for seamless integration.\n\n### 2. Pros and cons:\n- Pros:\n    + Easy to find then install dependencies\n    + Shared libraries and reusable libraries \n    + Multiple frameworks\n    + Easy to maintain dependencies with automatic updates\n- Cons:\n    + Potential for dependency bloat and large node_modules folders\n    + Security risks if not carefully managing versions and updates\n    + Version conflicts may arise with deeply nested dependencies\n\n### 3. Usecase:\n- Share code multiple projects: Dont need commit full library when copy code, it's just installing dependencies at node_modules by run command line - keep time.\n- Centralize dependencies: Need centralized dependency - keep it uptodate and maintanable.\n\n### 4: These dependencies can be seen as different levels:\n- *\"dependencies on tools\"* level, where one would list all the programming languages and libraries needed for building code.\n\n- *\"dependency on individual modules\"* level, which lists out every module referenced by another module in use; or even at lower levels like listing all source file dependencies\n\n### 5. Different ways to create an npm package\n- Yeoman is a Node.js-based open source project and may be used as an alternative to Grunt or Gulp in the frontend world. \n- Using Webpack and Babel: Webpack is a great way to compile your JavaScript and CSS files into one single bundle\n\n# Implementation with on-premises registry\n- [Gitlab npm packages in the package registry](https://docs.gitlab.com/ee/user/packages/npm_registry/)\n- \n# Pricing and alternative:\n- Use npm registry: you can unlimited upload package with public pagage and only 7$/mo with private package.\n- Use verdaccio proxy: opensouce - lightweight private npm proxy registry (conly config registry in your package npmrc)\n- Gitlab package registry: (See detail document)[https://docs.gitlab.com/ee/user/packages/npm_registry/index.html#publishing-a-package-by-using-a-cicd-pipeline]\n\n# How maintain library dependencies?\n# Usage:\n- [Create npm project](https://www.freecodecamp.org/news/how-to-create-and-publish-your-first-npm-package/)\n- [Principle npm](https://docs.npmjs.com/cli/v10/commands/npm-init)\n# The step-by-step overview to create an npm package and distribute it:\n1. Decide on package name and confirm that it is unique in public npm registry\n2. Install Node.js (and npm)\n3. Create a directory for your npm package and work from within it\n4. Run `npm init` to create 'package.json'\n5. Add package dependencies (if any) to 'package.json'\n6. Add your Javascript code\n7. Run `npm login` to login to npm registry (create an account if you don't have one)\n8. Run `npm publish` to share your package with the world\n9. Configure `npm` to publish to a private repository (if desired)\n## Implement:\n```bash\nnpm init\nnpm install typescript \nnpx txc --init\n# creat .npmrc add registry=http://localhost:4873\nnpm publish\n```\n\n# Best practice to write resuable packages:"
+}

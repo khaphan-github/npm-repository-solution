@@ -1,19 +1,30 @@
-version: '3.1'
-
+version: "3.8"
 services:
   verdaccio:
-    image: verdaccio/verdaccio
-    container_name: 'verdaccio'
+    user: "${DEV_UID:-1000}:${DEV_GID:-1000}"
+    image: verdaccio/verdaccio:latest
+    container_name: verdaccio_registry_v6
     networks:
       - node-network
     environment:
       - VERDACCIO_PORT=4873
     ports:
-      - '4873:4873'
+      - "4873:4873"
     volumes:
-      - './storage:/verdaccio/storage'
-      - './config:/verdaccio/conf'
-      - './plugins:/verdaccio/plugins'
+      - "./storage:/verdaccio/storage"
+      - "./conf:/verdaccio/conf"
+      - "./plugins:/verdaccio/plugins"
+    deploy:
+      resources:
+        limits:
+          memory: 512M
+          cpus: "0.5"
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "http://localhost:4873/-/ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
 networks:
   node-network:
     driver: bridge
