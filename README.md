@@ -32,6 +32,11 @@
 # Implementation with on-premises registry
 - [Gitlab npm packages in the package registry](https://docs.gitlab.com/ee/user/packages/npm_registry/)
 - 
+# Pricing and alternative:
+- Use npm registry: you can unlimited upload package with public pagage and only 7$/mo with private package.
+- Use verdaccio proxy: opensouce - lightweight private npm proxy registry (conly config registry in your package npmrc)
+- Gitlab package registry: (See detail document)[https://docs.gitlab.com/ee/user/packages/npm_registry/index.html#publishing-a-package-by-using-a-cicd-pipeline]
+
 # How maintain library dependencies?
 # Usage:
 - [Create npm project](https://www.freecodecamp.org/news/how-to-create-and-publish-your-first-npm-package/)
@@ -51,7 +56,7 @@
 npm init
 npm install typescript 
 npx txc --init
-npm public
+npm publish
 ```
 ## Usage: 
 ```
