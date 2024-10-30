@@ -46,3 +46,15 @@
 7. Run `npm login` to login to npm registry (create an account if you don't have one)
 8. Run `npm publish` to share your package with the world
 9. Configure `npm` to publish to a private repository (if desired)
+## Implement:
+```bash
+npm init
+npm install typescript 
+npx txc --init
+npm public
+```
+## Usage: 
+```
+const skpyNotify = new SkpyNotify('127.0.0.38:9491')
+skpyNotify.sendBot('Test message');
+```
